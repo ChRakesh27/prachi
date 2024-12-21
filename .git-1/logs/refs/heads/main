@@ -1,0 +1,114 @@
+0000000000000000000000000000000000000000 c826d9d7f8da5e6cd5e1cf1a13052cd686e08667 Rakesh <chipparakesh01@gmail.com> 1733748233 +0530	clone: from https://github.com/mutant138/parchi2.0.git
+c826d9d7f8da5e6cd5e1cf1a13052cd686e08667 3dd87a84bab65083f1442ddbb936a41ed026d8f8 Rakesh <chipparakesh01@gmail.com> 1733807889 +0530	commit: change Package
+3dd87a84bab65083f1442ddbb936a41ed026d8f8 c826d9d7f8da5e6cd5e1cf1a13052cd686e08667 Rakesh <chipparakesh01@gmail.com> 1733807897 +0530	reset: moving to HEAD~
+c826d9d7f8da5e6cd5e1cf1a13052cd686e08667 d24935075491564d33e17a6cbd53b3259f4774fc Rakesh <chipparakesh01@gmail.com> 1733807904 +0530	commit: change Package name
+d24935075491564d33e17a6cbd53b3259f4774fc 4403087b71fb35ef260db81a94e7f5e2885be2d8 Rakesh <chipparakesh01@gmail.com> 1733809178 +0530	commit: uncommitted the code
+4403087b71fb35ef260db81a94e7f5e2885be2d8 3356cd15eb765ca45e290d092ff28b0a33418785 Rakesh <chipparakesh01@gmail.com> 1733813327 +0530	commit: fixed the issues and rename the company Ref
+3356cd15eb765ca45e290d092ff28b0a33418785 9b296417c61fecf2dc7fae7fb2ef0b7aa4775ed8 Rakesh <chipparakesh01@gmail.com> 1733814435 +0530	commit: removed console logs and converted to new updated Code
+9b296417c61fecf2dc7fae7fb2ef0b7aa4775ed8 ac3076dca9df26d606c9e857c05637b0ddc57561 Rakesh <chipparakesh01@gmail.com> 1733817499 +0530	commit: auto adding new company and new User in firebase
+ac3076dca9df26d606c9e857c05637b0ddc57561 4d72512af6cb5f773ea4d1e1d8a10bd7ba41fdc7 Rakesh <chipparakesh01@gmail.com> 1733834011 +0530	commit: Modified the form data for storing Firebase in expenses, bank
+4d72512af6cb5f773ea4d1e1d8a10bd7ba41fdc7 206e6a128b642742ff8696f87e70ec1ea2fae746 Rakesh <chipparakesh01@gmail.com> 1733834082 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+206e6a128b642742ff8696f87e70ec1ea2fae746 6089dea86d51b20eb8643fe86487f35321624b22 Rakesh <chipparakesh01@gmail.com> 1733899436 +0530	commit: merge the edit and create invoice page
+6089dea86d51b20eb8643fe86487f35321624b22 2a194b7d6264e86612c635c2be51de226a01e8ad Rakesh <chipparakesh01@gmail.com> 1733911528 +0530	commit: Customers data for store in Redux
+2a194b7d6264e86612c635c2be51de226a01e8ad 16add23da86e60cfaf5ef28a5cf6b3f483089d0d Rakesh <chipparakesh01@gmail.com> 1733914126 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+16add23da86e60cfaf5ef28a5cf6b3f483089d0d 458d0aa07fdf19b9b136fcc1a22f36706cffee1e Rakesh <chipparakesh01@gmail.com> 1733914135 +0530	pull --tags origin main: Merge made by the 'ort' strategy.
+458d0aa07fdf19b9b136fcc1a22f36706cffee1e fc72826d368dba573da99c7f985073fe36f26a8a Rakesh <chipparakesh01@gmail.com> 1733914712 +0530	commit: fixed issues
+fc72826d368dba573da99c7f985073fe36f26a8a 9488a3c25474f95b1cc8d14f29f3b1c3e7818200 Rakesh <chipparakesh01@gmail.com> 1733916885 +0530	commit: added bank details in template
+9488a3c25474f95b1cc8d14f29f3b1c3e7818200 0cda291f3e2fedf58eb35328f1a7f3dc8d7c7648 Rakesh <chipparakesh01@gmail.com> 1733917315 +0530	commit: Renamed the file name
+0cda291f3e2fedf58eb35328f1a7f3dc8d7c7648 3e7d60c0675d3087d458065dad5bbc7ca0eb0397 Rakesh <chipparakesh01@gmail.com> 1733918855 +0530	commit: fixed the issues
+3e7d60c0675d3087d458065dad5bbc7ca0eb0397 2ac0ba6e7486eb8cb024686d942f252e50e040d1 Rakesh <chipparakesh01@gmail.com> 1733919006 +0530	commit: fixed the issues
+2ac0ba6e7486eb8cb024686d942f252e50e040d1 f33914b57b16c50dc9611a21aa3a67a53703af74 Rakesh <chipparakesh01@gmail.com> 1733920081 +0530	commit (merge): fixed the errors
+f33914b57b16c50dc9611a21aa3a67a53703af74 46085c4f9f3d6c10c52fe7fd298a66d2ec9932ae Rakesh <chipparakesh01@gmail.com> 1733920399 +0530	commit: fixed the errors
+46085c4f9f3d6c10c52fe7fd298a66d2ec9932ae c0976b7ddddbdc1a1333ea9925bb5515a8497866 Rakesh <chipparakesh01@gmail.com> 1733920788 +0530	commit: added due Date
+c0976b7ddddbdc1a1333ea9925bb5515a8497866 304ed19b4dc067235aa4648d86c3b1e8fe0e9d1a Rakesh <chipparakesh01@gmail.com> 1733977928 +0530	commit: fixed the errors
+304ed19b4dc067235aa4648d86c3b1e8fe0e9d1a 23e07aa49c22d2ac061775d4344e038bcad04134 Rakesh <chipparakesh01@gmail.com> 1733981306 +0530	commit: fixed the errors
+23e07aa49c22d2ac061775d4344e038bcad04134 367d90f9fb6591ee50a0c3fc30974d5acdee5448 Rakesh <chipparakesh01@gmail.com> 1733981882 +0530	pull: Fast-forward
+367d90f9fb6591ee50a0c3fc30974d5acdee5448 802f996cec7170c34c65d052c56afca53b42f0e1 Rakesh <chipparakesh01@gmail.com> 1733983369 +0530	commit: fixed time issue
+802f996cec7170c34c65d052c56afca53b42f0e1 8432ad5161c77df836d398a59ebe4d47adf2ee9d Rakesh <chipparakesh01@gmail.com> 1733994962 +0530	commit: Added attendance
+8432ad5161c77df836d398a59ebe4d47adf2ee9d 842739fbc296e48d4245b8274d616df4eeb276bc Rakesh <chipparakesh01@gmail.com> 1733996274 +0530	commit: Added attendance
+842739fbc296e48d4245b8274d616df4eeb276bc e9b06e5efb5fd02a3eca1a9bd81e5e55976af354 Rakesh <chipparakesh01@gmail.com> 1733996930 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+e9b06e5efb5fd02a3eca1a9bd81e5e55976af354 1b2688401b52377246b353d8ef91f70629f153ec Rakesh <chipparakesh01@gmail.com> 1733997857 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+1b2688401b52377246b353d8ef91f70629f153ec a9005d4f0199f8768d5d6e9b852db6cd23523f01 Rakesh <chipparakesh01@gmail.com> 1733998862 +0530	commit: Merge branch 'main' of https://github.com/mutant138/parchi2.0
+a9005d4f0199f8768d5d6e9b852db6cd23523f01 0327921a4ba1bf0e18bdc1db35053d2563e9782e Rakesh <chipparakesh01@gmail.com> 1734001270 +0530	commit: updated the filter
+0327921a4ba1bf0e18bdc1db35053d2563e9782e e60620fb96f105a835871ef4570204a6080221b4 Rakesh <chipparakesh01@gmail.com> 1734003242 +0530	commit: Added attendance
+e60620fb96f105a835871ef4570204a6080221b4 5763da2e1eae94091d7b5206283acf73018e83e5 Rakesh <chipparakesh01@gmail.com> 1734004580 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+5763da2e1eae94091d7b5206283acf73018e83e5 dc0c6aa6898fe13b00f46b3a9043408e236f555f Rakesh <chipparakesh01@gmail.com> 1734005830 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+dc0c6aa6898fe13b00f46b3a9043408e236f555f c096b705645cb41f2a8fbc8f10344940eb62e45c Rakesh <chipparakesh01@gmail.com> 1734006390 +0530	pull: Fast-forward
+c096b705645cb41f2a8fbc8f10344940eb62e45c f027bf55ae5f4fa7fe1cb56ed2123b8af3e5ef0c Rakesh <chipparakesh01@gmail.com> 1734007645 +0530	commit: Added weekoff
+f027bf55ae5f4fa7fe1cb56ed2123b8af3e5ef0c c7ca3ae28884a604fb2ff6c4ec9db0386a93e3c6 Rakesh <chipparakesh01@gmail.com> 1734008625 +0530	commit: roles UI Done
+c7ca3ae28884a604fb2ff6c4ec9db0386a93e3c6 290a9fc9dfe4dc626cd098166616006dcc0ac1fe Rakesh <chipparakesh01@gmail.com> 1734065032 +0530	pull: Fast-forward
+290a9fc9dfe4dc626cd098166616006dcc0ac1fe 6084364bba67bd515bc6ed010f829919383f601b Rakesh <chipparakesh01@gmail.com> 1734067734 +0530	commit: fixed the issue
+6084364bba67bd515bc6ed010f829919383f601b 32f66b5b2172e1b056ff284f7583f2f5edb77c75 Rakesh <chipparakesh01@gmail.com> 1734072371 +0530	commit: fixed the issue
+32f66b5b2172e1b056ff284f7583f2f5edb77c75 994984e31073f7520fac73b9139ae0fceac1c4fc Rakesh <chipparakesh01@gmail.com> 1734085050 +0530	commit (merge): completed the week off
+994984e31073f7520fac73b9139ae0fceac1c4fc f2ecbe9e5d3c6b8ea09d2bd3e08c032db8545022 Rakesh <chipparakesh01@gmail.com> 1734085125 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+f2ecbe9e5d3c6b8ea09d2bd3e08c032db8545022 55c9b350c803263391c04ea9f9bf5b4aca889bca Rakesh <chipparakesh01@gmail.com> 1734088974 +0530	commit: implemented Shifting dashboard
+55c9b350c803263391c04ea9f9bf5b4aca889bca 73435a4751b9c1ee153679ec85fcc37b0d75e60b Rakesh <chipparakesh01@gmail.com> 1734089894 +0530	commit (merge): fixed issues
+73435a4751b9c1ee153679ec85fcc37b0d75e60b e1f419c670f5d7bf8b43b441f092537c43389b86 Rakesh <chipparakesh01@gmail.com> 1734089908 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+e1f419c670f5d7bf8b43b441f092537c43389b86 eeb83bc777dea45775544fe025581dcb4895493c Rakesh <chipparakesh01@gmail.com> 1734156073 +0530	commit: fixed issues
+eeb83bc777dea45775544fe025581dcb4895493c e138dbb5c3fabdace0c22215cafa3cab27085146 Rakesh <chipparakesh01@gmail.com> 1734158236 +0530	commit: start customer dashboard
+e138dbb5c3fabdace0c22215cafa3cab27085146 cf3ae6744a1633ac63f862eb6c3a22f87aa2ef68 Rakesh <chipparakesh01@gmail.com> 1734159498 +0530	commit: dummy customer dashboard
+cf3ae6744a1633ac63f862eb6c3a22f87aa2ef68 8ce689b8353fe6da5fd8971d0d4d24a26a750fce Rakesh <chipparakesh01@gmail.com> 1734160041 +0530	commit: fixed the name issue
+8ce689b8353fe6da5fd8971d0d4d24a26a750fce 780591e0446719b3ff8a29a96aed05c0b2d99357 Rakesh <chipparakesh01@gmail.com> 1734161680 +0530	pull: Fast-forward
+780591e0446719b3ff8a29a96aed05c0b2d99357 4f4d8bc7c69bf83016bcd0216365f0ffa8d65933 Rakesh <chipparakesh01@gmail.com> 1734163589 +0530	commit: dummy customer dashboard invoice
+4f4d8bc7c69bf83016bcd0216365f0ffa8d65933 9e4997ca94fa10212c1920e3d9e9aa397de23980 Rakesh <chipparakesh01@gmail.com> 1734163718 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+9e4997ca94fa10212c1920e3d9e9aa397de23980 48678744f420809e91c09d316a92511a682432a2 Rakesh <chipparakesh01@gmail.com> 1734167523 +0530	commit: changed Back btn logic
+48678744f420809e91c09d316a92511a682432a2 a9f98ad204e5955dc54699c8a24fc7dde7e4b07c Rakesh <chipparakesh01@gmail.com> 1734169534 +0530	commit: changed Back btn logic
+a9f98ad204e5955dc54699c8a24fc7dde7e4b07c 4074adf86cf3e59a83f641ce4fe6e05efc702792 Rakesh <chipparakesh01@gmail.com> 1734169614 +0530	commit: dummy customer dashboard
+4074adf86cf3e59a83f641ce4fe6e05efc702792 1d5e660823148286f2fcbfd6c4458c88f0b4fa67 Rakesh <chipparakesh01@gmail.com> 1734171421 +0530	pull: Fast-forward
+1d5e660823148286f2fcbfd6c4458c88f0b4fa67 82b1471e867fa374942c58916d494d3a9a6d2e15 Rakesh <chipparakesh01@gmail.com> 1734171666 +0530	commit: dummy customer dashboard
+82b1471e867fa374942c58916d494d3a9a6d2e15 c2b7514757ccc083966c09ea10b60efaa4243e6c Rakesh <chipparakesh01@gmail.com> 1734172165 +0530	commit: fixed the name issue
+c2b7514757ccc083966c09ea10b60efaa4243e6c 9377b5d74a43750581c58e98adca4b5f59430b2a Rakesh <chipparakesh01@gmail.com> 1734173280 +0530	commit: project customer dashboard
+9377b5d74a43750581c58e98adca4b5f59430b2a 055908ae041cb0c78060f48a3e9c373f86f1b054 Rakesh <chipparakesh01@gmail.com> 1734175821 +0530	commit: fixed the issue
+055908ae041cb0c78060f48a3e9c373f86f1b054 ed6729b8f5f0b84a27297f62657146c929b5ee90 Rakesh <chipparakesh01@gmail.com> 1734179536 +0530	commit: dashboard done
+ed6729b8f5f0b84a27297f62657146c929b5ee90 db821b0cc052dcc4a820eff278ae691a9fbdc13b Rakesh <chipparakesh01@gmail.com> 1734179863 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+db821b0cc052dcc4a820eff278ae691a9fbdc13b b0f203e371427c3cf2bfad47ebaf67183fdd14fa Rakesh <chipparakesh01@gmail.com> 1734180293 +0530	pull: Fast-forward
+b0f203e371427c3cf2bfad47ebaf67183fdd14fa 17a170a5ba26af59636b413a4873b7578688ef19 Rakesh <chipparakesh01@gmail.com> 1734180791 +0530	commit: dashboard done
+17a170a5ba26af59636b413a4873b7578688ef19 4f489f673e3c6aeb9ed5aa1925a609d9cd4afcf8 Rakesh <chipparakesh01@gmail.com> 1734325401 +0530	commit: Projects Editing Bank
+4f489f673e3c6aeb9ed5aa1925a609d9cd4afcf8 3608aeb921d794b6f8eb54fe12501c7716a31ce7 Rakesh <chipparakesh01@gmail.com> 1734325817 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+3608aeb921d794b6f8eb54fe12501c7716a31ce7 e1120ab73e39d3420576f07bbe094a72ead749e8 Rakesh <chipparakesh01@gmail.com> 1734326142 +0530	commit: fixed the issue
+e1120ab73e39d3420576f07bbe094a72ead749e8 9fde703a33ed0aac571e718621efa6f22d784828 Rakesh <chipparakesh01@gmail.com> 1734344016 +0530	commit: added return products
+9fde703a33ed0aac571e718621efa6f22d784828 5ee073afb17d3bb79e5f02622bad8337b42521a4 Rakesh <chipparakesh01@gmail.com> 1734344303 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+5ee073afb17d3bb79e5f02622bad8337b42521a4 b510ea374f1742c8feccaa2a84418950c4a54607 Rakesh <chipparakesh01@gmail.com> 1734349281 +0530	commit: completed return products
+b510ea374f1742c8feccaa2a84418950c4a54607 3abfb92cb90eaffa5b4e7a8eb3ab9fb518eb4097 Rakesh <chipparakesh01@gmail.com> 1734349283 +0530	pull --tags origin main: Merge made by the 'ort' strategy.
+3abfb92cb90eaffa5b4e7a8eb3ab9fb518eb4097 026f0f9d3ab549683fad235d281819b0892b6334 Rakesh <chipparakesh01@gmail.com> 1734352550 +0530	commit: completed return products
+026f0f9d3ab549683fad235d281819b0892b6334 f8fb04b01966b447aab25274e0ac123797190389 Rakesh <chipparakesh01@gmail.com> 1734352676 +0530	commit: completed return products
+f8fb04b01966b447aab25274e0ac123797190389 a247a90b4e482eb0119df980f232582837b550a0 Rakesh <chipparakesh01@gmail.com> 1734586740 +0530	pull: Fast-forward
+a247a90b4e482eb0119df980f232582837b550a0 23202f636d1cda56bb7563360ad575c1798ce76c Rakesh <chipparakesh01@gmail.com> 1734599648 +0530	commit: modified the view Invoice
+23202f636d1cda56bb7563360ad575c1798ce76c 2584785c5f5ed823877f4089e804cdad91bfe21a Rakesh <chipparakesh01@gmail.com> 1734599705 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+2584785c5f5ed823877f4089e804cdad91bfe21a 0df65e5b577b46f28905d54bb68cbbb781df3e33 Rakesh <chipparakesh01@gmail.com> 1734599781 +0530	commit: modified the view Invoice
+0df65e5b577b46f28905d54bb68cbbb781df3e33 d13d8e7c78405af42d062661c0daf1487badb8a7 Rakesh <chipparakesh01@gmail.com> 1734602743 +0530	commit: modified the view Invoice
+d13d8e7c78405af42d062661c0daf1487badb8a7 01a264477d4a5b9d0b73c1b578c59f81063c0d58 Rakesh <chipparakesh01@gmail.com> 1734603215 +0530	pull: Fast-forward
+01a264477d4a5b9d0b73c1b578c59f81063c0d58 ba476c1c07ec4532f75029bcb0bdc78be3f09bb5 Rakesh <chipparakesh01@gmail.com> 1734606685 +0530	commit: fixed calculation and added 2 template
+ba476c1c07ec4532f75029bcb0bdc78be3f09bb5 ee2a12b7352b040ae4070c6b7b3c5b421852e160 Rakesh <chipparakesh01@gmail.com> 1734608408 +0530	commit: removed logo
+ee2a12b7352b040ae4070c6b7b3c5b421852e160 1bb6d6f57dd02bfea5a43f59573b087d621a75b4 Rakesh <chipparakesh01@gmail.com> 1734612712 +0530	commit: added template2
+1bb6d6f57dd02bfea5a43f59573b087d621a75b4 74ff81993312b77e54104dd0eac4073b9328cf8c Rakesh <chipparakesh01@gmail.com> 1734678084 +0530	commit: added 8 template (no,6,8) all done
+74ff81993312b77e54104dd0eac4073b9328cf8c 2725e5cd481ba1e05cb751467be7f57573f25319 Rakesh <chipparakesh01@gmail.com> 1734678107 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+2725e5cd481ba1e05cb751467be7f57573f25319 e09c2cf1226c57b4bce9890fa0106d4c3df7f68d Rakesh <chipparakesh01@gmail.com> 1734686863 +0530	commit: Completed selecting Templates
+e09c2cf1226c57b4bce9890fa0106d4c3df7f68d d9a940a8611b25e56cf7fe3c8f7939f8c3e8537d Rakesh <chipparakesh01@gmail.com> 1734686866 +0530	pull --tags origin main: Merge made by the 'ort' strategy.
+d9a940a8611b25e56cf7fe3c8f7939f8c3e8537d 849941b97d74d71d9074a8dcae2afe75d044993c Rakesh <chipparakesh01@gmail.com> 1734689476 +0530	commit: fixed issues and modified the template data
+849941b97d74d71d9074a8dcae2afe75d044993c a01ac636399cfef133c6e72fe80de4fef81eb932 Rakesh <chipparakesh01@gmail.com> 1734691161 +0530	commit: amazon invoice template
+a01ac636399cfef133c6e72fe80de4fef81eb932 e1fc73fae6e59a52c8f1ed77abfa07963d95afe0 Rakesh <chipparakesh01@gmail.com> 1734695978 +0530	commit: big bazaar invoice template
+e1fc73fae6e59a52c8f1ed77abfa07963d95afe0 f9ed592c6d462e286c803f15cc5f67a0773bceef Rakesh <chipparakesh01@gmail.com> 1734695980 +0530	pull --tags origin main: Merge made by the 'ort' strategy.
+f9ed592c6d462e286c803f15cc5f67a0773bceef 3820c69e6cdaaa6e3b3678fc08db5c9d0eb16131 Rakesh <chipparakesh01@gmail.com> 1734696127 +0530	commit: big bazaar invoice template
+3820c69e6cdaaa6e3b3678fc08db5c9d0eb16131 48f05b425acca23009aa7500b1d6b958c119b38f Rakesh <chipparakesh01@gmail.com> 1734698468 +0530	commit: 9 template invoice template
+48f05b425acca23009aa7500b1d6b958c119b38f d154843b3a207340ab663b691d8252a82b39ad5b Rakesh <chipparakesh01@gmail.com> 1734698484 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+d154843b3a207340ab663b691d8252a82b39ad5b c0b7de48cdc0d1a99f7c05dc53b8558ff1538c11 Rakesh <chipparakesh01@gmail.com> 1734755025 +0530	pull: Fast-forward
+c0b7de48cdc0d1a99f7c05dc53b8558ff1538c11 d252ee8af74c3da3154456f931bac6ece6dc821f Rakesh <chipparakesh01@gmail.com> 1734755760 +0530	commit: Merge branch 'main' of https://github.com/mutant138/parchi2.0
+d252ee8af74c3da3154456f931bac6ece6dc821f 88fae8400ef8251eeba821d7cf0a037d20a2794a Rakesh <chipparakesh01@gmail.com> 1734759124 +0530	commit: 10 template invoice template
+88fae8400ef8251eeba821d7cf0a037d20a2794a d401985078c1df30a81ec31f2f45518bd7a120fc Rakesh <chipparakesh01@gmail.com> 1734761652 +0530	commit (merge): invoice Templates Done
+d401985078c1df30a81ec31f2f45518bd7a120fc a2c138a0cd82b7472797611068cfb813d1bd02d6 Rakesh <chipparakesh01@gmail.com> 1734761670 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+a2c138a0cd82b7472797611068cfb813d1bd02d6 2a9933ad4a74fbf0b3707cba002d60d3a4cd13ca Rakesh <chipparakesh01@gmail.com> 1734762428 +0530	commit: change the btn ui
+2a9933ad4a74fbf0b3707cba002d60d3a4cd13ca a7a9f17c8451c4f7079e8d517d9e924cb57528ee Rakesh <chipparakesh01@gmail.com> 1734764636 +0530	commit: changes the invoiceDate to date
+a7a9f17c8451c4f7079e8d517d9e924cb57528ee 7b20024409480f1a3262a99a5df41c3162fd5618 Rakesh <chipparakesh01@gmail.com> 1734765462 +0530	commit: quotation Template done
+7b20024409480f1a3262a99a5df41c3162fd5618 c1cbe4c6380e81c1cfcfec03f0aa1b37b7c4ca06 Rakesh <chipparakesh01@gmail.com> 1734766661 +0530	commit: added DueDate for all
+c1cbe4c6380e81c1cfcfec03f0aa1b37b7c4ca06 00b1874893f80f3b148ac5d840f1ea0d94594172 Rakesh <chipparakesh01@gmail.com> 1734766665 +0530	pull --tags origin main: Merge made by the 'ort' strategy.
+00b1874893f80f3b148ac5d840f1ea0d94594172 e8dda65f8179f3e0b9e38141ad0baee827e62a24 Rakesh <chipparakesh01@gmail.com> 1734767406 +0530	commit: fixed the issus changed Duedate to date
+e8dda65f8179f3e0b9e38141ad0baee827e62a24 2b96174a04d3f4b0e7063cbcbbf975913ba8eccd Rakesh <chipparakesh01@gmail.com> 1734771186 +0530	commit: integrated templates to purchase
+2b96174a04d3f4b0e7063cbcbbf975913ba8eccd e8dda65f8179f3e0b9e38141ad0baee827e62a24 Rakesh <chipparakesh01@gmail.com> 1734771197 +0530	reset: moving to HEAD~
+e8dda65f8179f3e0b9e38141ad0baee827e62a24 1cf0654a5c2a16fa7b453bd36a6170a06cdb0b56 Rakesh <chipparakesh01@gmail.com> 1734773323 +0530	commit: integrated templates to purchase
+1cf0654a5c2a16fa7b453bd36a6170a06cdb0b56 e8dda65f8179f3e0b9e38141ad0baee827e62a24 Rakesh <chipparakesh01@gmail.com> 1734773412 +0530	reset: moving to HEAD~
+e8dda65f8179f3e0b9e38141ad0baee827e62a24 18cc6283f31681d9d9123766ed03f6db37932547 Rakesh <chipparakesh01@gmail.com> 1734773691 +0530	commit: integrated templates to all
+18cc6283f31681d9d9123766ed03f6db37932547 db495822695a04289e67708f59eace85546b0b18 Rakesh <chipparakesh01@gmail.com> 1734773729 +0530	pull --tags origin main: Merge made by the 'ort' strategy.
+db495822695a04289e67708f59eace85546b0b18 da066e8bdda409699aa4a3383e7a929d1d67ffd9 Rakesh <chipparakesh01@gmail.com> 1734775764 +0530	pull: Fast-forward
+da066e8bdda409699aa4a3383e7a929d1d67ffd9 723ab5c0ba853ba6f313c15fb9191636640e75b6 Rakesh <chipparakesh01@gmail.com> 1734777996 +0530	commit: integrated templates to all
+723ab5c0ba853ba6f313c15fb9191636640e75b6 ec9d4848929916b48b3335870893c255d031c815 Rakesh <chipparakesh01@gmail.com> 1734794390 +0530	pull: Fast-forward
