@@ -102,7 +102,7 @@ function Invoice() {
                     <th className="p-4">Amount</th>
                     <th className="p-4">Status</th>
                     <th className="p-4">Mode</th>
-                    <th className="p-4">Invoice NO</th>
+                    <th className="p-4">Invoice No</th>
                     <th className="p-4">Date / Updated Time</th>
                     <th className="p-4">Actions</th>
                   </tr>
@@ -127,11 +127,11 @@ function Invoice() {
                         <td className="py-3">
                           {(() => {
                             if (
-                              invoice.date.seconds &&
-                              typeof invoice.date.seconds === "number"
+                              invoice?.date.seconds &&
+                              typeof invoice?.date?.seconds === "number"
                             ) {
                               const date = new Date(
-                                invoice.date.seconds * 1000
+                                invoice?.date?.seconds * 1000
                               );
                               const today = new Date();
                               const timeDiff =

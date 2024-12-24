@@ -112,3 +112,24 @@ e8dda65f8179f3e0b9e38141ad0baee827e62a24 18cc6283f31681d9d9123766ed03f6db3793254
 db495822695a04289e67708f59eace85546b0b18 da066e8bdda409699aa4a3383e7a929d1d67ffd9 Rakesh <chipparakesh01@gmail.com> 1734775764 +0530	pull: Fast-forward
 da066e8bdda409699aa4a3383e7a929d1d67ffd9 723ab5c0ba853ba6f313c15fb9191636640e75b6 Rakesh <chipparakesh01@gmail.com> 1734777996 +0530	commit: integrated templates to all
 723ab5c0ba853ba6f313c15fb9191636640e75b6 ec9d4848929916b48b3335870893c255d031c815 Rakesh <chipparakesh01@gmail.com> 1734794390 +0530	pull: Fast-forward
+ec9d4848929916b48b3335870893c255d031c815 f8744cecd5519b623abe86b010c7658cd41746aa Rakesh <chipparakesh01@gmail.com> 1734800460 +0530	commit: fixed the issues
+f8744cecd5519b623abe86b010c7658cd41746aa d2e97031200bc2e0cf8124958c2bc3ecd30696f0 Rakesh <chipparakesh01@gmail.com> 1734932519 +0530	commit: fixed the issues
+d2e97031200bc2e0cf8124958c2bc3ecd30696f0 c3fb164afbd5867f3bf3f0ad59c0ba1b7cc54fcb Rakesh <chipparakesh01@gmail.com> 1734937814 +0530	commit: fixed logic
+c3fb164afbd5867f3bf3f0ad59c0ba1b7cc54fcb 53b6170561a249453c80bea2da5533a0f11a3383 Rakesh <chipparakesh01@gmail.com> 1734950217 +0530	commit: login and register ui done
+53b6170561a249453c80bea2da5533a0f11a3383 30ae5abb9d2ef7b07dd72e169995c38865148ec6 Rakesh <chipparakesh01@gmail.com> 1734950219 +0530	pull --tags origin main: Merge made by the 'ort' strategy.
+30ae5abb9d2ef7b07dd72e169995c38865148ec6 b75fdf97ce7d00808e5df420d990ebd21a9469ff Rakesh <chipparakesh01@gmail.com> 1734952402 +0530	commit: added companyForm
+b75fdf97ce7d00808e5df420d990ebd21a9469ff 35255fab56b17f73d4d3c27e2395d544f5c6e075 Rakesh <chipparakesh01@gmail.com> 1734954303 +0530	commit: added companyForm
+35255fab56b17f73d4d3c27e2395d544f5c6e075 286ebfe5cd29e1a91be9daae2aa480d8ee1b9df2 Rakesh <chipparakesh01@gmail.com> 1734954956 +0530	commit: added companyForm
+286ebfe5cd29e1a91be9daae2aa480d8ee1b9df2 afcf25c9704c315aca457dcb4927a702f6a2d1b2 Rakesh <chipparakesh01@gmail.com> 1734957282 +0530	commit: added companyForm
+afcf25c9704c315aca457dcb4927a702f6a2d1b2 68d19ed1056a1c74856a7c3d3d68c9ca8abeaa53 Rakesh <chipparakesh01@gmail.com> 1734957285 +0530	pull --tags origin main: Merge made by the 'ort' strategy.
+68d19ed1056a1c74856a7c3d3d68c9ca8abeaa53 dfa32d1a57b02b45ba52979b2e9a61756f0d3f30 Rakesh <chipparakesh01@gmail.com> 1735022937 +0530	commit: invoiceList UI completed
+dfa32d1a57b02b45ba52979b2e9a61756f0d3f30 f8c83a34257dccb3afad7f6f4e4b266f2eaff45c Rakesh <chipparakesh01@gmail.com> 1735022971 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+f8c83a34257dccb3afad7f6f4e4b266f2eaff45c 678c8f5e0ad6a587dce06a6531dd86215ba4cef5 Rakesh <chipparakesh01@gmail.com> 1735025704 +0530	commit: add path in company profile
+678c8f5e0ad6a587dce06a6531dd86215ba4cef5 bd15b5aabd47d80e0666d275540b41d0c51e262b Rakesh <chipparakesh01@gmail.com> 1735025706 +0530	pull --tags origin main: Merge made by the 'ort' strategy.
+bd15b5aabd47d80e0666d275540b41d0c51e262b bc896dd61ae0464e7ac673d0875be5a632d6089f Rakesh <chipparakesh01@gmail.com> 1735032098 +0530	commit: *List UI completed
+bc896dd61ae0464e7ac673d0875be5a632d6089f 9f713fde0f77d78dd1958ad69e75c76515e11ebf Rakesh <chipparakesh01@gmail.com> 1735032106 +0530	commit: *List UI completed
+9f713fde0f77d78dd1958ad69e75c76515e11ebf 1cf42511b89665371521d703c4ba57e98dc8be3c Rakesh <chipparakesh01@gmail.com> 1735032578 +0530	commit: *List UI completed
+1cf42511b89665371521d703c4ba57e98dc8be3c 6bc0497a98e471ee3ebfea70268be79d46a9e842 Rakesh <chipparakesh01@gmail.com> 1735041748 +0530	commit: modified the UI
+6bc0497a98e471ee3ebfea70268be79d46a9e842 513603a1a3a19eae18de691c64212b4e181f9aea Rakesh <chipparakesh01@gmail.com> 1735041767 +0530	commit (merge): Merge branch 'main' of https://github.com/mutant138/parchi2.0
+513603a1a3a19eae18de691c64212b4e181f9aea 8371f18cc5e83cfda7c09d9f37aaaca2d74d0acd Rakesh <chipparakesh01@gmail.com> 1735043694 +0530	commit: modified the UI
+8371f18cc5e83cfda7c09d9f37aaaca2d74d0acd 9a07081f9f0249cfa2c944dbf8ddfa4c07572f5b Rakesh <chipparakesh01@gmail.com> 1735044884 +0530	commit: modified the UI sidebar
